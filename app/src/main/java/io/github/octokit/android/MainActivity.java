@@ -1,4 +1,4 @@
-package io.github.octokit.octokit_android;
+package io.github.octokit.android;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
